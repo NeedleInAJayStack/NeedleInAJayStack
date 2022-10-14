@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 ### 🤵 About Me:
-- 🏦 I'm currently working at an HVAC controls startup where I make curate their GraphQL API using Swift Vapor and PostgreSQL
+- 🏦 I'm currently working at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL
+- 🌱 I’m currently learning React and MQTT
 - 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
-- 🌱 I’m currently learning React and Kubernetes
+- 💬 Ask me about building science, energy efficiency, analytics, graphQL, or server-side Swift
 - 😄 Pronouns: He/Him
 
 <!--
