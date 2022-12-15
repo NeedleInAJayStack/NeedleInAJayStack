@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🤵 About Me:
-- 🏦 I'm work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL
+- 🏦 I work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL
 - 🌱 I’m currently learning React, kubernetes, and MQTT
 - 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
 - 💬 Ask me about GraphQL, server-side Swift, building science, energy efficiency, or analytics
