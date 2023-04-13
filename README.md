@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Jay! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://twitter.com/jay_herron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jay_herron" height="20" width="20" /></a>&nbsp;
+<a href="https://gitlab.com/NeedleInAJayStack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="jay_herron" height="20" width="20" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jay-herron-4ab86972/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jay-herron-4ab86972" height="20" width="20" /></a>&nbsp;
 </p>
 
 ### 🤵 About Me:
-- 🏦 I work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL
-- 🌱 I’m currently learning React, kubernetes, and MQTT
+- 🏦 I work at PassiveLogic, an HVAC controls startup where I head our cloud team and use GraphQL, Swift Vapor, and PostgreSQL
+- 🌱 I’m currently learning React, kubernetes, and Go
 - 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
-- 💬 Ask me about GraphQL, server-side Swift, building science, energy efficiency, or analytics
+- 💬 Ask me about GraphQL, server-side Swift, building controls, energy efficiency, or analytics
 - 😄 Pronouns: He/Him
 
 <!--
