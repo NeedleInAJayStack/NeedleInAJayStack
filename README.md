@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 ### 🤵 About Me:
-- 🏦 I work at PassiveLogic, an HVAC controls startup where I head our cloud team and use GraphQL, Swift Vapor, and PostgreSQL
-- 🌱 I’m currently learning React, kubernetes, and Go
+- 🏦 I work at PassiveLogic, a building controls startup where I lead the cloud team
+- 🌱 I’m currently learning React, Terraform, and Go
 - 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
 - 💬 Ask me about GraphQL, server-side Swift, building controls, energy efficiency, or analytics
 - 😄 Pronouns: He/Him
@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-### 🐱My Github stats:
+
 ![Jay's github stats](https://github-readme-stats.vercel.app/api?username=NeedleInAJayStack&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeedleInAJayStack&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
