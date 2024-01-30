@@ -31,6 +31,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <div>
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/NeedleInAJaystack/NeedleInAJaystack/output/github-contribution-grid-snake-dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://raw.githubusercontent.com/NeedleInAJaystack/NeedleInAJaystack/output/github-contribution-grid-snake.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        alt="github-snake"
+        src="https://raw.githubusercontent.com/NeedleInAJaystack/NeedleInAJaystack/output/github-contribution-grid-snake.svg"
+      >
+    </picture>
+  </div>
+  <div>
     <img src=https://github-readme-stats.vercel.app/api?username=NeedleInAJayStack&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]>
   </div>
   <div>
