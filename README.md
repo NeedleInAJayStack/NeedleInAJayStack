@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 ### About Me:
-- 🏦 I work at PassiveLogic, a building controls startup where I lead the cloud team
-- 🌱 I’m currently learning React, Terraform, and Go
-- 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
-- 💬 Ask me about GraphQL, server-side Swift, building controls, energy efficiency, or analytics
+- 🏦 I work at PassiveLogic, a building controls startup where I lead the cloud software team
+- 🌱 I’m currently learning React, Go, and Bash
+- 🤔 I use daily `.swift`, `.tf`, `.docker`, `.sql`
+- 💬 Ask me about backend web development, cloud software, server-side Swift, building controls, or analytics
 - 😄 Pronouns: He/Him
 
 ---
